@@ -17,7 +17,7 @@ const handleLogOut = () => {
   return (
     <div> 
       
-      {/* <button onClick={handleLogOut}>signout</button> */}
+      <button onClick={handleLogOut}>signout</button>
 
       <div className='relative'>
         <img className='w-full h-screen absolute top-0' src="https://img.freepik.com/free-photo/abstract-floral-design-with-purple-blue-blossoms-generated-by-ai_188544-9789.jpg" alt="" />
